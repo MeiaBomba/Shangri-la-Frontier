@@ -5,27 +5,11 @@
   "author": "Kata Rina",
   "cover": "https://static.wikia.nocookie.net/shangrila-frontier/images/0/0f/Volume_01.png/revision/latest?cb=20201220215319",
   "chapters": {
-    "004": {
-      "title": "Uma reação única em cadeia",
-      "last_updated": "1782002509",
+    "001": {
+      "title": "Por que joga video game⁉️",
+      "last_updated": "1782002538",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqb3jmoy2"
-      },
-      "volume": "01"
-    },
-    "003": {
-      "title": "Luta Noturna",
-      "last_updated": "1782002518",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9rydd8g3wyk"
-      },
-      "volume": "01"
-    },
-    "005": {
-      "title": "Jogando um game lixo para esvaziar meu ego inflado",
-      "last_updated": "1782002521",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbwq3e7p"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8jnlp4x"
       },
       "volume": "01"
     },
@@ -37,29 +21,29 @@
       },
       "volume": "01"
     },
-    "001": {
-      "title": "Por que joga video game⁉️",
-      "last_updated": "1782002538",
+    "003": {
+      "title": "Luta Noturna",
+      "last_updated": "1782002518",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8jnlp4x"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9rydd8g3wyk"
       },
       "volume": "01"
     },
-    "008": {
-      "title": "Pessoas Voando, Coelhos Pulando",
-      "last_updated": "1782007453",
+    "004": {
+      "title": "Uma reação única em cadeia",
+      "last_updated": "1782002509",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jz2r8578"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqb3jmoy2"
       },
-      "volume": "02"
+      "volume": "01"
     },
-    "009": {
-      "title": "Assim enfrentarás uma linha de lanças desordeiras",
-      "last_updated": "1782007453",
+    "005": {
+      "title": "Jogando um game lixo para esvaziar meu ego inflado",
+      "last_updated": "1782002521",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9rydd8vrdyk"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbwq3e7p"
       },
-      "volume": "02"
+      "volume": "01"
     },
     "006": {
       "title": "O Pássaro Marcha",
@@ -77,11 +61,19 @@
       },
       "volume": "02"
     },
-    "011": {
-      "title": "O Olho do Furacão, Enfurecido por Dentro",
-      "last_updated": "1782007470",
+    "008": {
+      "title": "Pessoas Voando, Coelhos Pulando",
+      "last_updated": "1782007453",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/xny8wkbepyb"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jz2r8578"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "Assim enfrentarás uma linha de lanças desordeiras",
+      "last_updated": "1782007453",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9rydd8vrdyk"
       },
       "volume": "02"
     },
@@ -90,6 +82,14 @@
       "last_updated": "1782007470",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rbamx75"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "O Olho do Furacão, Enfurecido por Dentro",
+      "last_updated": "1782007470",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/xny8wkbepyb"
       },
       "volume": "02"
     },
@@ -125,6 +125,14 @@
       },
       "volume": "02"
     },
+    "016": {
+      "title": "O Concerto do Limite-300 e O Evasor Esperançoso",
+      "last_updated": "1782161871",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/xny8wd3q2yb"
+      },
+      "volume": "03"
+    },
     "017": {
       "title": "O Fantasma que Perambula por aí",
       "last_updated": "1782161867",
@@ -149,27 +157,11 @@
       },
       "volume": "03"
     },
-    "016": {
-      "title": "O Concerto do Limite-300 e O Evasor Esperançoso",
-      "last_updated": "1782161871",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/xny8wd3q2yb"
-      },
-      "volume": "03"
-    },
     "020": {
       "title": "Cabeça de Pássaro vs Aranha Palhaça",
       "last_updated": "1782161883",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24alr3adyl"
-      },
-      "volume": "03"
-    },
-    "022": {
-      "title": "O Brilho da Verdade",
-      "last_updated": "1782161883",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rl32n75"
       },
       "volume": "03"
     },
@@ -181,6 +173,14 @@
       },
       "volume": "03"
     },
+    "022": {
+      "title": "O Brilho da Verdade",
+      "last_updated": "1782161883",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rl32n75"
+      },
+      "volume": "03"
+    },
     "023": {
       "title": "O Aço que Ultrapassa seu Limite",
       "last_updated": "1782161884",
@@ -189,19 +189,19 @@
       },
       "volume": "03"
     },
-    "027": {
-      "title": "A pessoa certa, no lugar certo e no momento certo",
-      "last_updated": "1782161898",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjm52m45"
-      },
-      "volume": "04"
-    },
     "024": {
       "title": "Infiltrar, Atacar, Visível, Capturar",
       "last_updated": "1782161899",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9249ervdbyn"
+      },
+      "volume": "03"
+    },
+    "025": {
+      "title": "Sempre há Remorsos do Passado",
+      "last_updated": "1782161900",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2vk3yo"
       },
       "volume": "03"
     },
@@ -213,13 +213,29 @@
       },
       "volume": "04"
     },
-    "025": {
-      "title": "Sempre há Remorsos do Passado",
-      "last_updated": "1782161900",
+    "027": {
+      "title": "A pessoa certa, no lugar certo e no momento certo",
+      "last_updated": "1782161898",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2vk3yo"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjm52m45"
       },
-      "volume": "03"
+      "volume": "04"
+    },
+    "028": {
+      "title": "A arte da guerra é enfrentar o desconhecido",
+      "last_updated": "1782161914",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy2j9ddz7l"
+      },
+      "volume": "04"
+    },
+    "029": {
+      "title": "PK's",
+      "last_updated": "1782161914",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8v99x4x"
+      },
+      "volume": "04"
     },
     "030": {
       "title": "As preparações finais",
@@ -237,19 +253,11 @@
       },
       "volume": "04"
     },
-    "029": {
-      "title": "PK's",
-      "last_updated": "1782161914",
+    "032": {
+      "title": "Irei te amar agora e para sempre (2)",
+      "last_updated": "1782166650",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8v99x4x"
-      },
-      "volume": "04"
-    },
-    "028": {
-      "title": "A arte da guerra é enfrentar o desconhecido",
-      "last_updated": "1782161914",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy2j9ddz7l"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24alrqvdyl"
       },
       "volume": "04"
     },
@@ -266,6 +274,14 @@
       "last_updated": "1782162186",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/lqyerea2z4d"
+      },
+      "volume": "04"
+    },
+    "035": {
+      "title": "Irei te amar agora e para sempre (5)",
+      "last_updated": "1782166651",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjwkz7x"
       },
       "volume": "04"
     },
@@ -301,14 +317,6 @@
       },
       "volume": "05"
     },
-    "041": {
-      "title": "Irei te amar agora e para sempre (11)",
-      "last_updated": "1782162200",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/agyvbk2qk48"
-      },
-      "volume": "05"
-    },
     "040": {
       "title": "Irei te amar agora e para sempre (10)",
       "last_updated": "1782162200",
@@ -317,11 +325,11 @@
       },
       "volume": "05"
     },
-    "044": {
-      "title": "O mundo se desenrola e os heróis viram o foco",
-      "last_updated": "1782162214",
+    "041": {
+      "title": "Irei te amar agora e para sempre (11)",
+      "last_updated": "1782162200",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4na9nw5yn"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/agyvbk2qk48"
       },
       "volume": "05"
     },
@@ -341,6 +349,14 @@
       },
       "volume": "05"
     },
+    "044": {
+      "title": "O mundo se desenrola e os heróis viram o foco",
+      "last_updated": "1782162214",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4na9nw5yn"
+      },
+      "volume": "05"
+    },
     "045": {
       "title": "Distinção e exagero",
       "last_updated": "1782162215",
@@ -348,30 +364,6 @@
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjm5kg45"
       },
       "volume": "05"
-    },
-    "047": {
-      "title": "O legado de Wezaemon",
-      "last_updated": "1782166649",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rlpzn75"
-      },
-      "volume": "06"
-    },
-    "032": {
-      "title": "Irei te amar agora e para sempre (2)",
-      "last_updated": "1782166650",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24alrqvdyl"
-      },
-      "volume": "04"
-    },
-    "035": {
-      "title": "Irei te amar agora e para sempre (5)",
-      "last_updated": "1782166651",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjwkz7x"
-      },
-      "volume": "04"
     },
     "046": {
       "title": "O que é agora e o que vem por aí",
@@ -381,11 +373,27 @@
       },
       "volume": "06"
     },
+    "047": {
+      "title": "O legado de Wezaemon",
+      "last_updated": "1782166649",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rlpzn75"
+      },
+      "volume": "06"
+    },
     "048": {
       "title": "Seminário sobre lavagem da Prof. Pencilgon",
       "last_updated": "1782166663",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjmdvm45"
+      },
+      "volume": "06"
+    },
+    "049": {
+      "title": "Buscando, upando e conquistando",
+      "last_updated": "1782166666",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2e93yo"
       },
       "volume": "06"
     },
@@ -405,19 +413,19 @@
       },
       "volume": "06"
     },
-    "049": {
-      "title": "Buscando, upando e conquistando",
-      "last_updated": "1782166666",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2e93yo"
-      },
-      "volume": "06"
-    },
     "052": {
       "title": "Pássaro + Coelho vs. Coro esquelético",
       "last_updated": "1782166677",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8vg3x4x"
+      },
+      "volume": "06"
+    },
+    "053": {
+      "title": "Ah, trabalhos mágicos - Ah, armadura de papel",
+      "last_updated": "1782166681",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzakq378"
       },
       "volume": "06"
     },
@@ -437,14 +445,6 @@
       },
       "volume": "06"
     },
-    "053": {
-      "title": "Ah, trabalhos mágicos - Ah, armadura de papel",
-      "last_updated": "1782166681",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzakq378"
-      },
-      "volume": "06"
-    },
     "056": {
       "title": "Ganhando a Batalha, Perdendo a Guerra",
       "last_updated": "1782166692",
@@ -461,14 +461,6 @@
       },
       "volume": "07"
     },
-    "059": {
-      "title": "O herói semi nu e seus amigos no paraíso dos golens",
-      "last_updated": "1782166693",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbzew54j"
-      },
-      "volume": "07"
-    },
     "058": {
       "title": "Explorador das trevas do mundo",
       "last_updated": "1782166694",
@@ -477,11 +469,11 @@
       },
       "volume": "07"
     },
-    "063": {
-      "title": "Conferência dançante, motivos aleatórios e zumbis",
-      "last_updated": "1782169240",
+    "059": {
+      "title": "O herói semi nu e seus amigos no paraíso dos golens",
+      "last_updated": "1782166693",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2ep8yo"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbzew54j"
       },
       "volume": "07"
     },
@@ -501,6 +493,22 @@
       },
       "volume": "07"
     },
+    "062": {
+      "title": "O desconhecido, ocultando o bem e o mal até ser revelado",
+      "last_updated": "1782171575",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqblrzdy2"
+      },
+      "volume": "07"
+    },
+    "063": {
+      "title": "Conferência dançante, motivos aleatórios e zumbis",
+      "last_updated": "1782169240",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2ep8yo"
+      },
+      "volume": "07"
+    },
     "064": {
       "title": "Conferência acelerada, ganância crescente e múltiplos inícios",
       "last_updated": "1782169243",
@@ -508,14 +516,6 @@
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/md7oknwpa4p"
       },
       "volume": "07"
-    },
-    "067": {
-      "title": "Em direção ao céu, sonhando com o impossível",
-      "last_updated": "1782169253",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzakp578"
-      },
-      "volume": "08"
     },
     "065": {
       "title": "Conheça de quem é a mão em que você dança sobre",
@@ -533,19 +533,19 @@
       },
       "volume": "08"
     },
+    "067": {
+      "title": "Em direção ao céu, sonhando com o impossível",
+      "last_updated": "1782169253",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzakp578"
+      },
+      "volume": "08"
+    },
     "068": {
       "title": "Simpatia distante da queda dos escorpiões",
       "last_updated": "1782169257",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqblxpey2"
-      },
-      "volume": "08"
-    },
-    "070": {
-      "title": "A tenacidade chamada desejo",
-      "last_updated": "1782169267",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbj9kk7p"
       },
       "volume": "08"
     },
@@ -557,11 +557,11 @@
       },
       "volume": "08"
     },
-    "072": {
-      "title": "Gosto de comer trigo em vez de grãos",
-      "last_updated": "1782169270",
+    "070": {
+      "title": "A tenacidade chamada desejo",
+      "last_updated": "1782169267",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qngav4r"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbj9kk7p"
       },
       "volume": "08"
     },
@@ -573,6 +573,14 @@
       },
       "volume": "08"
     },
+    "072": {
+      "title": "Gosto de comer trigo em vez de grãos",
+      "last_updated": "1782169270",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qngav4r"
+      },
+      "volume": "08"
+    },
     "073": {
       "title": "Asas gêmeas em um empate",
       "last_updated": "1782171575",
@@ -580,14 +588,6 @@
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9ryddw6aayk"
       },
       "volume": "08"
-    },
-    "062": {
-      "title": "O desconhecido, ocultando o bem e o mal até ser revelado",
-      "last_updated": "1782171575",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqblrzdy2"
-      },
-      "volume": "07"
     },
     "074": {
       "title": "O único indo atrás de uma nova maré",
@@ -621,14 +621,6 @@
       },
       "volume": "09"
     },
-    "079": {
-      "title": "Deixe sua impaciência te abastecer",
-      "last_updated": "1782171592",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbz8j54j"
-      },
-      "volume": "09"
-    },
     "078": {
       "title": "O que fazer, o que almejar e em quem confiar",
       "last_updated": "1782171592",
@@ -637,11 +629,11 @@
       },
       "volume": "09"
     },
-    "081": {
-      "title": "A aberração flutuante se encontra com o mestre de batalha",
-      "last_updated": "1782171608",
+    "079": {
+      "title": "Deixe sua impaciência te abastecer",
+      "last_updated": "1782171592",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mj5kz7x"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbz8j54j"
       },
       "volume": "09"
     },
@@ -650,6 +642,14 @@
       "last_updated": "1782171608",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24alr8vdyl"
+      },
+      "volume": "09"
+    },
+    "081": {
+      "title": "A aberração flutuante se encontra com o mestre de batalha",
+      "last_updated": "1782171608",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mj5kz7x"
       },
       "volume": "09"
     },
@@ -701,19 +701,19 @@
       },
       "volume": "10"
     },
-    "089": {
-      "title": "Abraçando suas ambições na luz (parte 7)",
-      "last_updated": "1782172577",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rl55v75"
-      },
-      "volume": "10"
-    },
     "088": {
       "title": "Abraçando suas ambições na luz (parte 6)",
       "last_updated": "1782172577",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mj5527x"
+      },
+      "volume": "10"
+    },
+    "089": {
+      "title": "Abraçando suas ambições na luz (parte 7)",
+      "last_updated": "1782172577",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rl55v75"
       },
       "volume": "10"
     },
@@ -725,19 +725,19 @@
       },
       "volume": "10"
     },
+    "091": {
+      "title": "Abraçando suas ambições na luz (parte 9)",
+      "last_updated": "1782174649",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2dp8yo"
+      },
+      "volume": "10"
+    },
     "092": {
       "title": "Abraçando suas ambições na luz (parte 10)",
       "last_updated": "1782172579",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/agyvbk99k48"
-      },
-      "volume": "10"
-    },
-    "094": {
-      "title": "Abraçando suas ambições na luz (parte 12)",
-      "last_updated": "1782172591",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/m9yxbw8867q"
       },
       "volume": "10"
     },
@@ -749,11 +749,11 @@
       },
       "volume": "10"
     },
-    "091": {
-      "title": "Abraçando suas ambições na luz (parte 9)",
-      "last_updated": "1782174649",
+    "094": {
+      "title": "Abraçando suas ambições na luz (parte 12)",
+      "last_updated": "1782172591",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb2dp8yo"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/m9yxbw8867q"
       },
       "volume": "10"
     },
@@ -765,19 +765,19 @@
       },
       "volume": "10"
     },
+    "096": {
+      "title": "Uma vez na vida, uma outra vez",
+      "last_updated": "1782178933",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qe4g3gw5qyj"
+      },
+      "volume": "11"
+    },
     "097": {
       "title": "Para que você joga o jogo - Oicazzo",
       "last_updated": "1782178932",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/lqyeremgm4d"
-      },
-      "volume": "11"
-    },
-    "099": {
-      "title": "Um straight flush misturado com coringas",
-      "last_updated": "1782178933",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbzn854j"
       },
       "volume": "11"
     },
@@ -789,11 +789,11 @@
       },
       "volume": "11"
     },
-    "096": {
-      "title": "Uma vez na vida, uma outra vez",
+    "099": {
+      "title": "Um straight flush misturado com coringas",
       "last_updated": "1782178933",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qe4g3gw5qyj"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbzn854j"
       },
       "volume": "11"
     },
@@ -802,14 +802,6 @@
       "last_updated": "1782178947",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24alrj8dyl"
-      },
-      "volume": "11"
-    },
-    "103": {
-      "title": "A sorte já foi lançada",
-      "last_updated": "1782178947",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjd5z7x"
       },
       "volume": "11"
     },
@@ -826,6 +818,14 @@
       "last_updated": "1782178947",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/m9yxbw38p7q"
+      },
+      "volume": "11"
+    },
+    "103": {
+      "title": "A sorte já foi lançada",
+      "last_updated": "1782178947",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjd5z7x"
       },
       "volume": "11"
     },
@@ -853,14 +853,6 @@
       },
       "volume": "12"
     },
-    "109": {
-      "title": "Ok, agora é hora de cortar o peixe dragão em 3 pedaços",
-      "last_updated": "1782179144",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/lqyeremmz4d"
-      },
-      "volume": "12"
-    },
     "107": {
       "title": "Marcha limitada",
       "last_updated": "1782179145",
@@ -877,27 +869,19 @@
       },
       "volume": "12"
     },
+    "109": {
+      "title": "Ok, agora é hora de cortar o peixe dragão em 3 pedaços",
+      "last_updated": "1782179144",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/lqyeremmz4d"
+      },
+      "volume": "12"
+    },
     "110": {
       "title": "Rumo ao sinal de estrondos e detruição",
       "last_updated": "1782179157",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rlqqv75"
-      },
-      "volume": "12"
-    },
-    "113": {
-      "title": "A justiça e o mal correndo pela cidade do caos",
-      "last_updated": "1782179158",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/agyvbkrrk48"
-      },
-      "volume": "12"
-    },
-    "112": {
-      "title": "A estrela da primeira magnitude da Star Rain",
-      "last_updated": "1782179158",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjdd27x"
       },
       "volume": "12"
     },
@@ -909,13 +893,29 @@
       },
       "volume": "12"
     },
-    "119": {
-      "title": "Intenção assassina a 100 metros por segundo",
-      "last_updated": "1782179488",
+    "112": {
+      "title": "A estrela da primeira magnitude da Star Rain",
+      "last_updated": "1782179158",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjd327x"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjdd27x"
       },
-      "volume": "13"
+      "volume": "12"
+    },
+    "113": {
+      "title": "A justiça e o mal correndo pela cidade do caos",
+      "last_updated": "1782179158",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/agyvbkrrk48"
+      },
+      "volume": "12"
+    },
+    "114": {
+      "title": "Isto é um jogo baseado em personagens de HQ",
+      "last_updated": "1782180855",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb28bkyo"
+      },
+      "volume": "12"
     },
     "115": {
       "title": "Misturando o caos em redemoinhos invernal",
@@ -924,6 +924,46 @@
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24alrj2eyl"
       },
       "volume": "12"
+    },
+    "116": {
+      "title": "Assumir áreas de grandeza 'Por um instante é o limite da luz brilhante'",
+      "last_updated": "1782180855",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjmqjv45"
+      },
+      "volume": "13"
+    },
+    "117": {
+      "title": "Qual é realmente o desvio⁈",
+      "last_updated": "1782180855",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/md7okn8k94p"
+      },
+      "volume": "13"
+    },
+    "118": {
+      "title": "Esse café não é muito forte",
+      "last_updated": "1782180856",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4na98alyn"
+      },
+      "volume": "13"
+    },
+    "119": {
+      "title": "Intenção assassina a 100 metros por segundo",
+      "last_updated": "1782179488",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mjd327x"
+      },
+      "volume": "13"
+    },
+    "120": {
+      "title": "Não tema o tirano",
+      "last_updated": "1782182868",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9249er2amyn"
+      },
+      "volume": "13"
     },
     "121": {
       "title": "Rei do mar profundo, eu vou respeitosamente chuta sua bunda",
@@ -965,37 +1005,13 @@
       },
       "volume": "13"
     },
-    "117": {
-      "title": "Qual é realmente o desvio⁈",
-      "last_updated": "1782180855",
+    "126": {
+      "title": "Uma abóbora fora de época e um cavaleiro que se recusa a morrer",
+      "last_updated": "1782182867",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/md7okn8k94p"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mj3xo7x"
       },
-      "volume": "13"
-    },
-    "114": {
-      "title": "Isto é um jogo baseado em personagens de HQ",
-      "last_updated": "1782180855",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb28bkyo"
-      },
-      "volume": "12"
-    },
-    "116": {
-      "title": "Assumir áreas de grandeza 'Por um instante é o limite da luz brilhante'",
-      "last_updated": "1782180855",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjmqjv45"
-      },
-      "volume": "13"
-    },
-    "118": {
-      "title": "Esse café não é muito forte",
-      "last_updated": "1782180856",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4na98alyn"
-      },
-      "volume": "13"
+      "volume": "14"
     },
     "127": {
       "title": "Imitação predestinada, seja fiel a sua maldade",
@@ -1013,22 +1029,6 @@
       },
       "volume": "14"
     },
-    "126": {
-      "title": "Uma abóbora fora de época e um cavaleiro que se recusa a morrer",
-      "last_updated": "1782182867",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846mj3xo7x"
-      },
-      "volume": "14"
-    },
-    "120": {
-      "title": "Não tema o tirano",
-      "last_updated": "1782182868",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9249er2amyn"
-      },
-      "volume": "13"
-    },
     "129": {
       "title": "Uma tarefa impossível, mas desistir é inútil",
       "last_updated": "1782182876",
@@ -1045,19 +1045,19 @@
       },
       "volume": "14"
     },
-    "132": {
-      "title": "Dance, dance no palco da heresia",
-      "last_updated": "1782182880",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/na7kg6arb48"
-      },
-      "volume": "14"
-    },
     "131": {
       "title": "O mal se escondendo nas sombras, rindo tranquilamente",
       "last_updated": "1782182880",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/md7oknalr4p"
+      },
+      "volume": "14"
+    },
+    "132": {
+      "title": "Dance, dance no palco da heresia",
+      "last_updated": "1782182880",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/na7kg6arb48"
       },
       "volume": "14"
     },
@@ -1085,6 +1085,14 @@
       },
       "volume": "14"
     },
+    "136": {
+      "title": "O romance te fortalece, o amor te conquista",
+      "last_updated": "1782252080",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbx3ng4j"
+      },
+      "volume": "15"
+    },
     "137": {
       "title": "O herói chega elegantemente atrasado",
       "last_updated": "1782252078",
@@ -1109,14 +1117,6 @@
       },
       "volume": "15"
     },
-    "136": {
-      "title": "O romance te fortalece, o amor te conquista",
-      "last_updated": "1782252080",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbx3ng4j"
-      },
-      "volume": "15"
-    },
     "140": {
       "title": "O desafiante arrogante - Ignição",
       "last_updated": "1782252093",
@@ -1125,19 +1125,19 @@
       },
       "volume": "15"
     },
-    "142": {
-      "title": "O vingador furioso - Esgotamento",
-      "last_updated": "1782252094",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846m8x3g7x"
-      },
-      "volume": "15"
-    },
     "141": {
       "title": "O perdedor ardente incompleto - Backdraft",
       "last_updated": "1782252094",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/xny8wazepyb"
+      },
+      "volume": "15"
+    },
+    "142": {
+      "title": "O vingador furioso - Esgotamento",
+      "last_updated": "1782252094",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846m8x3g7x"
       },
       "volume": "15"
     },
@@ -1157,6 +1157,14 @@
       },
       "volume": "15"
     },
+    "145": {
+      "title": "Fogo cruzado dos titãs gêmeos - Calor mortal",
+      "last_updated": "1782252112",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/md7okmlaa4p"
+      },
+      "volume": "15"
+    },
     "146": {
       "title": "O Bravo e Galante Quebrador - Peso Morto",
       "last_updated": "1782252111",
@@ -1173,14 +1181,6 @@
       },
       "volume": "16"
     },
-    "145": {
-      "title": "Fogo cruzado dos titãs gêmeos - Calor mortal",
-      "last_updated": "1782252112",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/md7okmlaa4p"
-      },
-      "volume": "15"
-    },
     "148": {
       "title": "A Estrela Esquecida Fora de Controle - Sufocada",
       "last_updated": "1782252120",
@@ -1189,19 +1189,19 @@
       },
       "volume": "16"
     },
-    "150": {
-      "title": "As Lutas do Mal",
-      "last_updated": "1782252124",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzl3e578"
-      },
-      "volume": "16"
-    },
     "149": {
       "title": "Mentor de Horas Extras Paralisado",
       "last_updated": "1782252124",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8qka64x"
+      },
+      "volume": "16"
+    },
+    "150": {
+      "title": "As Lutas do Mal",
+      "last_updated": "1782252124",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzl3e578"
       },
       "volume": "16"
     },
@@ -1245,11 +1245,11 @@
       },
       "volume": "16"
     },
-    "159": {
-      "title": "Multidões se Aglomerando na Mina de Ouro Inexplorada",
-      "last_updated": "1782254108",
+    "156": {
+      "title": "Queda Estelar- Além do Finalizador",
+      "last_updated": "1782254109",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqbwqlny2"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbe2eg7p"
       },
       "volume": "17"
     },
@@ -1261,19 +1261,19 @@
       },
       "volume": "17"
     },
-    "156": {
-      "title": "Queda Estelar- Além do Finalizador",
-      "last_updated": "1782254109",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbe2eg7p"
-      },
-      "volume": "17"
-    },
     "158": {
       "title": "Rodada Extra - Hora da Festa",
       "last_updated": "1782254110",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ej7m5dndnyd"
+      },
+      "volume": "17"
+    },
+    "159": {
+      "title": "Multidões se Aglomerando na Mina de Ouro Inexplorada",
+      "last_updated": "1782254108",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqbwqlny2"
       },
       "volume": "17"
     },
@@ -1317,11 +1317,19 @@
       },
       "volume": "17"
     },
-    "168": {
-      "title": "O Precipício da Falha",
+    "165": {
+      "title": "Separação de Um Anjo",
+      "last_updated": "1782256010",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb3z8kyo"
+      },
+      "volume": "17"
+    },
+    "166": {
+      "title": "Dias de Conexão e de Estar Conectado",
       "last_updated": "1782256009",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4narl8lyn"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjaxqv45"
       },
       "volume": "18"
     },
@@ -1333,27 +1341,27 @@
       },
       "volume": "18"
     },
-    "166": {
-      "title": "Dias de Conexão e de Estar Conectado",
+    "168": {
+      "title": "O Precipício da Falha",
       "last_updated": "1782256009",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjaxqv45"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4narl8lyn"
       },
       "volume": "18"
-    },
-    "165": {
-      "title": "Separação de Um Anjo",
-      "last_updated": "1782256010",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/dl7pb3z8kyo"
-      },
-      "volume": "17"
     },
     "169": {
       "title": "Como Acender um Fósforo Molhado",
       "last_updated": "1782256022",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy2jkl287l"
+      },
+      "volume": "18"
+    },
+    "170": {
+      "title": "Libere o Desconforto, Abrace o Desconforto",
+      "last_updated": "1782256029",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzlw8e78"
       },
       "volume": "18"
     },
@@ -1373,19 +1381,19 @@
       },
       "volume": "18"
     },
-    "170": {
-      "title": "Libere o Desconforto, Abrace o Desconforto",
-      "last_updated": "1782256029",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzlw8e78"
-      },
-      "volume": "18"
-    },
     "173": {
       "title": "Recebendo os Céus, Unidos - Parte 1",
       "last_updated": "1782256044",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbedl67p"
+      },
+      "volume": "18"
+    },
+    "174": {
+      "title": "Recebendo os Céus, Unidos - Parte 2",
+      "last_updated": "1782256051",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qejl34r"
       },
       "volume": "18"
     },
@@ -1404,14 +1412,6 @@
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/n87wbarmb7x"
       },
       "volume": "19"
-    },
-    "174": {
-      "title": "Recebendo os Céus, Unidos - Parte 2",
-      "last_updated": "1782256051",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qejl34r"
-      },
-      "volume": "18"
     },
     "177": {
       "title": "Reivindicando os Céus, Unidos - Parte 5",
@@ -1485,11 +1485,35 @@
       },
       "volume": "19"
     },
-    "191": {
-      "title": "Mantendo os Céus no Alto, Unidos - Parte 19",
-      "last_updated": "1782257712",
+    "186": {
+      "title": "Mantendo os Céus no Alto, Unidos - Parte 14",
+      "last_updated": "1782259786",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24al5kr2yl"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9ryddkamnyk"
+      },
+      "volume": "20"
+    },
+    "187": {
+      "title": "Mantendo os Céus no Alto, Unidos - Parte 15",
+      "last_updated": "1782259788",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ej7m5dkwjyd"
+      },
+      "volume": "20"
+    },
+    "188": {
+      "title": "Mantendo os Céus no Alto, Unidos - Parte 16",
+      "last_updated": "1782259789",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qewg34r"
+      },
+      "volume": "20"
+    },
+    "189": {
+      "title": "Mantendo os Céus no Alto, Unidos - Parte 17",
+      "last_updated": "1782259786",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbe8967p"
       },
       "volume": "20"
     },
@@ -1498,6 +1522,14 @@
       "last_updated": "1782257715",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846m8gjo7x"
+      },
+      "volume": "20"
+    },
+    "191": {
+      "title": "Mantendo os Céus no Alto, Unidos - Parte 19",
+      "last_updated": "1782257712",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24al5kr2yl"
       },
       "volume": "20"
     },
@@ -1525,14 +1557,6 @@
       },
       "volume": "20"
     },
-    "196": {
-      "title": "Mantendo os céus no alto, Unidos - Parte 24",
-      "last_updated": "1782257743",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8qmvq4x"
-      },
-      "volume": "21"
-    },
     "195": {
       "title": "Mantendo os Céus no Alto, Unidos - Parte 23",
       "last_updated": "1782257746",
@@ -1541,51 +1565,19 @@
       },
       "volume": "20"
     },
+    "196": {
+      "title": "Mantendo os céus no alto, Unidos - Parte 24",
+      "last_updated": "1782257743",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8qmvq4x"
+      },
+      "volume": "21"
+    },
     "197": {
       "title": "Mantendo os céus no alto, Unidos - Parte 25",
       "last_updated": "1782257749",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qejej4r"
-      },
-      "volume": "21"
-    },
-    "189": {
-      "title": "Mantendo os Céus no Alto, Unidos - Parte 17",
-      "last_updated": "1782259786",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbe8967p"
-      },
-      "volume": "20"
-    },
-    "186": {
-      "title": "Mantendo os Céus no Alto, Unidos - Parte 14",
-      "last_updated": "1782259786",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9ryddkamnyk"
-      },
-      "volume": "20"
-    },
-    "187": {
-      "title": "Mantendo os Céus no Alto, Unidos - Parte 15",
-      "last_updated": "1782259788",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ej7m5dkwjyd"
-      },
-      "volume": "20"
-    },
-    "188": {
-      "title": "Mantendo os Céus no Alto, Unidos - Parte 16",
-      "last_updated": "1782259789",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qewg34r"
-      },
-      "volume": "20"
-    },
-    "200": {
-      "title": "Mantendo os céus no alto, Unidos - Parte 28",
-      "last_updated": "1782259816",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24al5vqwyl"
       },
       "volume": "21"
     },
@@ -1605,6 +1597,14 @@
       },
       "volume": "21"
     },
+    "200": {
+      "title": "Mantendo os céus no alto, Unidos - Parte 28",
+      "last_updated": "1782259816",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24al5vqwyl"
+      },
+      "volume": "21"
+    },
     "201": {
       "title": "Mantendo os céus no alto, Unidos - Parte 29",
       "last_updated": "1782259816",
@@ -1613,19 +1613,19 @@
       },
       "volume": "21"
     },
-    "203": {
-      "title": "Mantendo os céus no alto, Unidos - Parte 31",
-      "last_updated": "1782259839",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4narxjlyn"
-      },
-      "volume": "21"
-    },
     "202": {
       "title": "Mantendo os céus no alto, Unidos - Parte 30",
       "last_updated": "1782259841",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjavkv45"
+      },
+      "volume": "21"
+    },
+    "203": {
+      "title": "Mantendo os céus no alto, Unidos - Parte 31",
+      "last_updated": "1782259839",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4narxjlyn"
       },
       "volume": "21"
     },
@@ -1661,19 +1661,19 @@
       },
       "volume": "22"
     },
-    "209": {
-      "title": "Fera Farejando Guerra!",
-      "last_updated": "1782259866",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzlvge78"
-      },
-      "volume": "22"
-    },
     "208": {
       "title": "Caminhos divergentes, Corações unidos",
       "last_updated": "1782259868",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqbwzrky2"
+      },
+      "volume": "22"
+    },
+    "209": {
+      "title": "Fera Farejando Guerra!",
+      "last_updated": "1782259866",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzlvge78"
       },
       "volume": "22"
     },
@@ -1685,27 +1685,11 @@
       },
       "volume": "22"
     },
-    "215": {
-      "title": "Semi-nudez legal e Historicamente justificada ⁄ Perversão anormal e Profissional avaliada",
-      "last_updated": "1782260620",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbe8nk7p"
-      },
-      "volume": "22"
-    },
     "211": {
       "title": "A Troca de Matilha de Lobos",
       "last_updated": "1782260634",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9ryddka2dyk"
-      },
-      "volume": "22"
-    },
-    "213": {
-      "title": "Verdadeira Força",
-      "last_updated": "1782260639",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ej7m5dkeqyd"
       },
       "volume": "22"
     },
@@ -1717,11 +1701,35 @@
       },
       "volume": "22"
     },
-    "218": {
-      "title": "Dois Heróis de Batalha, Depois de um Sonho",
-      "last_updated": "1782263069",
+    "213": {
+      "title": "Verdadeira Força",
+      "last_updated": "1782260639",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8q3334x"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ej7m5dkeqyd"
+      },
+      "volume": "22"
+    },
+    "214": {
+      "title": "O Lobo Mau, a Coelha Furiosa e o Gato Estranho",
+      "last_updated": "1782263620",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qebd34r"
+      },
+      "volume": "22"
+    },
+    "215": {
+      "title": "Semi-nudez legal e Historicamente justificada ⁄ Perversão anormal e Profissional avaliada",
+      "last_updated": "1782260620",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/6eyrbe8nk7p"
+      },
+      "volume": "22"
+    },
+    "216": {
+      "title": "Movimento Incontrolável",
+      "last_updated": "1782263621",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ej7m5d3ajyd"
       },
       "volume": "23"
     },
@@ -1730,6 +1738,14 @@
       "last_updated": "1782263071",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqbw88xy2"
+      },
+      "volume": "23"
+    },
+    "218": {
+      "title": "Dois Heróis de Batalha, Depois de um Sonho",
+      "last_updated": "1782263069",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7l8q3334x"
       },
       "volume": "23"
     },
@@ -1781,27 +1797,11 @@
       },
       "volume": "23"
     },
-    "214": {
-      "title": "O Lobo Mau, a Coelha Furiosa e o Gato Estranho",
-      "last_updated": "1782263620",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/pg73qebd34r"
-      },
-      "volume": "22"
-    },
     "225": {
       "title": "O preço da força, aceito com olhos de fogo",
       "last_updated": "1782263621",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/n87wbae9b7x"
-      },
-      "volume": "23"
-    },
-    "216": {
-      "title": "Movimento Incontrolável",
-      "last_updated": "1782263621",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ej7m5d3ajyd"
       },
       "volume": "23"
     },
@@ -1821,11 +1821,11 @@
       },
       "volume": "24"
     },
-    "230": {
-      "title": "A guerra dos lobos aumentam com uma iniciativa mortal",
-      "last_updated": "1782263643",
+    "228": {
+      "title": "O conteúdo extra é de uma loucura deliciosa",
+      "last_updated": "1782263646",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24al5a2wyl"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/agyvb5vnz48"
       },
       "volume": "24"
     },
@@ -1837,11 +1837,11 @@
       },
       "volume": "24"
     },
-    "228": {
-      "title": "O conteúdo extra é de uma loucura deliciosa",
-      "last_updated": "1782263646",
+    "230": {
+      "title": "A guerra dos lobos aumentam com uma iniciativa mortal",
+      "last_updated": "1782263643",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/agyvb5vnz48"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24al5a2wyl"
       },
       "volume": "24"
     },
@@ -1893,14 +1893,6 @@
       },
       "volume": "25"
     },
-    "238": {
-      "title": "Reuni-vos, defensores, contra o avanço da serpente do ódio",
-      "last_updated": "1782263699",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/lqyerxqlk4d"
-      },
-      "volume": "25"
-    },
     "237": {
       "title": "Deixando até os pensamentos mais perversos passar",
       "last_updated": "1782263699",
@@ -1909,11 +1901,35 @@
       },
       "volume": "25"
     },
+    "238": {
+      "title": "Reuni-vos, defensores, contra o avanço da serpente do ódio",
+      "last_updated": "1782263699",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/lqyerxqlk4d"
+      },
+      "volume": "25"
+    },
     "239": {
       "title": "O corpo se quebra, mas o coração não se parte",
       "last_updated": "1782263701",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rg2og75"
+      },
+      "volume": "25"
+    },
+    "240": {
+      "title": "Um vórtice de risadas tão desejável quanto uma mão na garganta",
+      "last_updated": "1782267452",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846m8png7x"
+      },
+      "volume": "25"
+    },
+    "241": {
+      "title": "Assassino despido",
+      "last_updated": "1782266300",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/xny8wa3mdyb"
       },
       "volume": "25"
     },
@@ -1949,13 +1965,13 @@
       },
       "volume": "25"
     },
-    "241": {
-      "title": "Assassino despido",
-      "last_updated": "1782266300",
+    "246": {
+      "title": "O jogo de pega-pega violento",
+      "last_updated": "1782267454",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/xny8wa3mdyb"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4narnowyn"
       },
-      "volume": "25"
+      "volume": "26"
     },
     "247": {
       "title": "Um ódio inesgotável",
@@ -2021,19 +2037,11 @@
       },
       "volume": "26"
     },
-    "240": {
-      "title": "Um vórtice de risadas tão desejável quanto uma mão na garganta",
-      "last_updated": "1782267452",
+    "255": {
+      "title": "Com tempo e dinheiro, pode-se levar vantagem na maioria das situações;",
+      "last_updated": "1782267456",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846m8png7x"
-      },
-      "volume": "25"
-    },
-    "246": {
-      "title": "O jogo de pega-pega violento",
-      "last_updated": "1782267454",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9p4narnowyn"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9249e6vnvyn"
       },
       "volume": "26"
     },
@@ -2045,19 +2053,11 @@
       },
       "volume": "27"
     },
-    "255": {
-      "title": "Com tempo e dinheiro, pode-se levar vantagem na maioria das situações;",
-      "last_updated": "1782267456",
+    "257": {
+      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 1)",
+      "last_updated": "1782267495",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9249e6vnvyn"
-      },
-      "volume": "26"
-    },
-    "260": {
-      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 4)",
-      "last_updated": "1782267482",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy2jkd5n7l"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzl9p278"
       },
       "volume": "27"
     },
@@ -2077,11 +2077,11 @@
       },
       "volume": "27"
     },
-    "257": {
-      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 1)",
-      "last_updated": "1782267495",
+    "260": {
+      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 4)",
+      "last_updated": "1782267482",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jzl9p278"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy2jkd5n7l"
       },
       "volume": "27"
     },
@@ -2090,6 +2090,22 @@
       "last_updated": "1782267502",
       "groups": {
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/9ryddkx9wyk"
+      },
+      "volume": "27"
+    },
+    "262": {
+      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 6)",
+      "last_updated": "1782267542",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbxdv34j"
+      },
+      "volume": "27"
+    },
+    "263": {
+      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 7)",
+      "last_updated": "1782267545",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rg3b275"
       },
       "volume": "27"
     },
@@ -2109,14 +2125,6 @@
       },
       "volume": "27"
     },
-    "262": {
-      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 6)",
-      "last_updated": "1782267542",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/qb4zbxdv34j"
-      },
-      "volume": "27"
-    },
     "266": {
       "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 10)",
       "last_updated": "1782271751",
@@ -2124,14 +2132,6 @@
         "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy2jkaw97l"
       },
       "volume": "28"
-    },
-    "263": {
-      "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 7)",
-      "last_updated": "1782267545",
-      "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45rg3b275"
-      },
-      "volume": "27"
     },
     "267": {
       "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 11)",
@@ -2159,9 +2159,9 @@
     },
     "270": {
       "title": "Lobo da Espada contra a Besta da Chama Relâmpago (Parte 14)",
-      "last_updated": "1782271850",
+      "last_updated": "1782272765",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ne7bjakgj45"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/o24al58adyl"
       },
       "volume": "28"
     }
